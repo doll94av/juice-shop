@@ -20,3 +20,5 @@
 - Merging to main can be dangerous. When code changes you may end up implementing a breaking change which causes the app to crash and teams to have to firefight instead of focusing on developing. Code should always be merged to a feature branch / development branch, tested, then merged to main when it is ready to go to production.
 
 - Preventing this is best done by implementing good CI processes for testing but also configuring your SCM to not allow merging to main along with configuring branch protection rules that rely on tests passing to merge code
+
+<img width="2535" height="1330" alt="image" src="https://github.com/user-attachments/assets/b11c91d9-994b-4cb8-bd4e-1ce4fc6eaec2" />
