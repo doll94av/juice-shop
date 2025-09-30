@@ -12,7 +12,7 @@
 
 - NPM run to deploy the application
 
-- Deploy application and make it publically available: http://69.14.248.76:3000/#/
+- Deploy application and make it publically available: http://69.14.248.76:3000/#/ || Running on a raspberryPI so may be down, if so screenshot is provided below.
 
 
 ## Merge and best practices
